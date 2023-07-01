@@ -639,6 +639,11 @@ transform: translateX(-50%);
     top: 2% ;
     left: 2% ;     
 }
+#team .discription
+{
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+}
 #team .cardo:hover  img
 {
     transform: scale(1.2);
